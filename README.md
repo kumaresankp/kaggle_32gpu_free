@@ -4,11 +4,6 @@ This guide sets up an Ollama model on a Kaggle GPU notebook and exposes
 its OpenAI-compatible API through a temporary Cloudflare Quick Tunnel so
 an external AI client, such as a VS Code extension that supports custom
 OpenAI-compatible endpoints, can use the model.
-
-> **Important:** Kaggle sessions are temporary, and a Cloudflare Quick
-> Tunnel is temporary. This is intended for testing/experimentation, not
-> a 24/7 production API.
-
 ------------------------------------------------------------------------
 
 ## Architecture
