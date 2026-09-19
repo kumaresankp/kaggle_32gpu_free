@@ -22,7 +22,7 @@ VS Code AI Extension / External Agent
              Ollama
                 |
                 v
-           qwen3:8b
+           qwen3:8b ( any model that you prefer)
                 |
                 v
            Kaggle GPU
